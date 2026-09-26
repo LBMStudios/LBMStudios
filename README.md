@@ -1,61 +1,115 @@
-# <div align="center">👋 Lucas Beathyate Mascherini</div>
-### <div align="center">Product Engineer & Creative Technologist · Montevideo, Uruguay 🇺🇾</div>
-
 <div align="center">
 
-[![Next.js 16](https://img.shields.io/badge/Next.js_16-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
-[![Playwright](https://img.shields.io/badge/Playwright_E2E_%26_A11y-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Vercel](https://img.shields.io/badge/Vercel_Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+```
+  _      ____  __  __   _____ _______ _    _ _____ _____ ____   _____ 
+ | |    |  _ \|  \/  | / ____|__   __| |  | |  __ \_   _/ __ \ / ____|
+ | |    | |_) | \  / || (___    | |  | |  | | |  | || || |  | | (___  
+ | |    |  _ <| |\/| | \___ \   | |  | |  | | |  | || || |  | |\___ \ 
+ | |____| |_) | |  | | ____) |  | |  | |__| | |__| || || |__| |____) |
+ |______|____/|_|  |_||_____/   |_|   \____/|_____/_____|____/|_____/ 
+```
+
+### `LUCAS BEATHYATE`
+**FORWARD DEPLOYED ENGINEER · CREATIVE TECHNOLOGIST**  
+`LBM STUDIOS // MONTEVIDEO, URUGUAY 🇺🇾`
+
+[![STATUS](https://img.shields.io/badge/STATUS-ACTIVE%20DEPLOYMENT-ff3b1f?style=flat-square&labelColor=0a0a0a)](https://github.com/LBMStudios)
+[![BASE](https://img.shields.io/badge/BASE-MONTEVIDEO%20%2F%20URUGUAY-0a0a0a?style=flat-square&labelColor=0a0a0a)](https://github.com/LBMStudios)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-LBMSTUDIOS.COM-0a0a0a?style=flat-square&labelColor=0a0a0a)](https://github.com/LBMStudios/cv-portfolio)
+[![DISCIPLINE](https://img.shields.io/badge/DISCIPLINE-AI%20%C2%B7%20PRODUCT%20%C2%B7%20VISUAL%20SYSTEMS-0a0a0a?style=flat-square&labelColor=0a0a0a)](https://github.com/LBMStudios)
 
 </div>
 
 ---
 
-### 🚀 Sobre mí & Enfoque de Trabajo
+```
+┌──────────────────┬─────────────────────────────────────────────────────────────┐
+│ 00 // DISCIPLINE │ FORWARD DEPLOYED ENGINEERING & CREATIVE TECHNOLOGY           │
+│ 01 // FOCUS      │ AGENTIC SYSTEMS · ENTERPRISE ARCHITECTURE · VISUAL SYSTEMS  │
+│ 02 // STUDIO     │ LBM STUDIOS · MONTEVIDEO, URUGUAY                           │
+│ 03 // PARTNERS   │ UNIVERSAL ASSISTANCE (ZURICH) · DELOITTE · ITAÚ · OCA       │
+└──────────────────┴─────────────────────────────────────────────────────────────┘
+```
 
-Combino **ingeniería de software empresarial**, **arquitectura de datos en tiempo real** y **dirección de arte interactiva**. Mi trabajo está enfocado en resolver problemas reales de alta fricción corporativa: modernización de flujos CRM, automatización de ventas, reportes ejecutivos automatizados e interfaces web inmersivas para clientes y marcas líderes como **Universal Assistance (Zurich)**, **Deloitte**, **Itaú**, **OCA** y **Surview**.
-
----
-
-### 🌟 Proyectos Insignia (Flagship Projects)
-
-#### ⚡ [Enterprise App Starter](https://github.com/LBMStudios/lbm-app-starter)
-* **Stack:** Next.js 16 (App Router), TypeScript, Supabase SSR, Vitest, Playwright (@axe-core/playwright), Tailwind CSS.
-* **Aspectos destacados:** Arquitectura modular empresarial con pruebas automatizadas de extremo a extremo, auditorías continuas de accesibilidad y un **controlador móvil remoto interactivo (/remote)** para manejar presentaciones y métricas en vivo desde el celular.
-
-#### 💼 [Deloitte HOSRIA Platform Deck](https://github.com/LBMStudios/presentaciodeloitte)
-* **Stack:** Next.js, SVG Pipelines reactivos, CSS Custom Properties, Turbopack.
-* **Aspectos destacados:** Experiencia web interactiva en 10 escenas diseñada para consultoría ejecutiva. Reemplaza diapositivas estáticas por flujos animados en tiempo real que comparan el *Modelo Tradicional* frente a la *Plataforma HOSRIA*.
-
-#### 🎫 [Universal Assistance — Cinema Experience & Ticketing](https://github.com/LBMStudios/invitacioneseventosUniversal)
-* **Stack:** Firebase, Google Apps Script, Brevo Transactional API, QR Code Engine, Remotion Video.
-* **Aspectos destacados:** Plataforma integral para eventos corporativos (Coyote vs Acme). Acreditación digital con códigos QR en puerta, control de aforo en sala en tiempo real, despacho omnicanal masivo y generación de video caso de estudio automatizado.
-
-#### 🏦 [Monexa Flow](https://github.com/LBMStudios/monexa-flow)
-* **Stack:** Python, Local Automation, Data Normalizer, Excel/CSV Engines.
-* **Aspectos destacados:** Herramienta de auditoría bancaria in-situ para estudios contables en Uruguay. Automatización, escaneo y exportación contable 100% local sin dependencia de servidores externos.
-
-#### 🎯 [Gestión de Leads & Siebel CRM Engine](https://github.com/LBMStudios/gestion-de-leads)
-* **Stack:** React, Supabase Realtime, Python, Siebel CRM sync.
-* **Aspectos destacados:** Plataforma de ingesta, normalización de telefonía (+598 / +54), deduplicación inteligente y conversión comercial emparejada con motores CRM tradicionales.
+> *"Selected work across AI, high-stakes enterprise pipelines, product architecture, and high-impact visual design systems."*
 
 ---
 
-### 🛠️ Áreas de Especialización
+### `01 // SELECTED CASES`
 
-* **Frontend de Alta Fidelidad:** Componentes interactivos, SVG vectorial dinámico, accesibilidad web (WCAG / a11y) y performance Core Web Vitals.
-* **Automatización y Procesamiento de Datos:** Motores ETL ligeros, normalización de bases de datos de leads, sincronización con sistemas heredados (Siebel CRM).
-* **Mailing y Despacho Omnicanal:** Plantillas responsive multimarca (Universal Assistance, Itaú, OCA), automatización con Brevo y Webhooks.
+```
+INDEX   CASE STUDY                   DOMAIN                    CORE IMPACT
+────────────────────────────────────────────────────────────────────────────
+01/06   CORE ECOSYSTEM SPATIAL STORY Consulting / Web Deck     10-Scene interactive 3D/SVG
+02/06   UA CINEMA EXPERIENCE         Event Automation / Cloud  QR check-in & Brevo dispatch
+03/06   UNIFIED SALES FLOW           CRM / Supabase Realtime   Real-time lead deduplication
+04/06   ONE-CLICK QUOTE & RETENTION  Fintech / Travel Assure   20-second dynamic quote engine
+05/06   MONEXA FLOW                  Audit / Local Engine      In-situ banking audit automation
+06/06   ENTERPRISE APP STARTER       Next.js 16 Production     Automated a11y & remote controller
+```
+
+#### 💼 [Core Ecosystem Spatial Story](https://github.com/LBMStudios/presentaciodeloitte) `[01/06]`
+* **Repository:** [`presentaciodeloitte`](https://github.com/LBMStudios/presentaciodeloitte) · **Client:** Deloitte / HOSRIA
+* **Stack:** Next.js 16 · Turbopack · Connected SVG Vector Pipelines · Dynamic Spatial Navigation
+* **Essence:** Executive narrative experience replacing static 50-slide decks with animated vector flows comparing legacy fragmentation against unified governance.
+
+#### 🎫 [UA Cinema Experience & Ticketing](https://github.com/LBMStudios/invitacioneseventosUniversal) `[02/06]`
+* **Repository:** [`invitacioneseventosUniversal`](https://github.com/LBMStudios/invitacioneseventosUniversal) · **Partner:** Universal Assistance
+* **Stack:** Firebase Cloud · Google Apps Script · Brevo Transactional Engine · Remotion Video Engine
+* **Essence:** Full-lifecycle ticketing for corporate premiere (Coyote vs Acme). Door QR access verification, dynamic capacity governance, automated omni-channel dispatch and programmatic case study video generation.
+
+#### 🎯 [Unified Sales Flow & Siebel CRM Engine](https://github.com/LBMStudios/gestion-de-leads) `[03/06]`
+* **Repository:** [`gestion-de-leads`](https://github.com/LBMStudios/gestion-de-leads) & [`siebel-universal-assistance`](https://github.com/LBMStudios/siebel-universal-assistance)
+* **Stack:** React 19 · Supabase Realtime · Python Automation · Siebel CRM Protocol Sync
+* **Essence:** Real-time commercial conversion tray, phone normalizer (+598 / +54), algorithmic deduplication, and bi-directional CRM synchronization.
+
+#### ⚡ [One-Click Quote & Renewal Engine](https://github.com/LBMStudios/mails-renovacion) `[04/06]`
+* **Repository:** [`mails-renovacion`](https://github.com/LBMStudios/mails-renovacion) & [`reporte-llamadas-perdidas`](https://github.com/LBMStudios/reporte-llamadas-perdidas)
+* **Stack:** Node.js · Vercel Edge · Multi-brand Cobranding (Universal Assistance, Itaú, OCA)
+* **Essence:** 20-second automated quotation and dynamic renewal dispatch for high-retention policy cycles and missed-call recovery.
+
+#### 🏦 [Monexa Flow](https://github.com/LBMStudios/monexa-flow) `[05/06]`
+* **Repository:** [`monexa-flow`](https://github.com/LBMStudios/monexa-flow)
+* **Stack:** Python · Local Automation Engine · Native Excel/CSV Normalizer
+* **Essence:** In-situ banking audit tool designed for accounting firms in Uruguay. Local data parsing, bank reconciliation and zero-cloud compliance.
+
+#### 🚀 [Enterprise App Starter](https://github.com/LBMStudios/lbm-app-starter) `[06/06]`
+* **Repository:** [`lbm-app-starter`](https://github.com/LBMStudios/lbm-app-starter)
+* **Stack:** Next.js 16 · TypeScript · Vitest · Playwright E2E & `@axe-core/playwright` · `/remote` Mobile Controller
+* **Essence:** Enterprise-grade production foundation with continuous accessibility auditing and an integrated smartphone remote controller for live presentations.
+
+---
+
+### `02 // TECHNICAL MATRIX`
+
+```
+LAYER               TECHNOLOGIES & PROTOCOLS
+────────────────────────────────────────────────────────────────────────────
+CORE / RUNTIME      TypeScript · Next.js 16 (App Router) · React 19 · Python 3.12 · Node.js
+DATA & STATE        Supabase Realtime · PostgreSQL · SQLite · Redis · Zod Schema Validation
+TESTING & QUALITY   Playwright E2E · @axe-core/playwright (WCAG 2.1 AA) · Vitest · Turbopack
+INFRASTRUCTURE      Vercel Edge · Firebase Cloud · GitHub Actions CI/CD · Cloudflare
+CREATIVE TECH       SVG Vector Animation · Remotion Programmatic Video · High-DPI Visual Curation
+CORPORATE STACK     Siebel CRM Integration · Brevo Transactional Engine · Google Apps Script
+```
+
+---
+
+### `03 // VISUAL PRACTICE & PROVENANCE`
+
+Exhibition-grade photography archives, physical/digital lab studies, and generative systems:
+* 📷 **Curator's Backlit Light Table:** *Retratos Equinos · Cielos Nocturnos · Texturas · Asimetría II · Visio Facto*
+* 🎨 **Interactive Portfolio:** Documented in [`cv-portfolio`](https://github.com/LBMStudios/cv-portfolio)
 
 ---
 
 <div align="center">
 
-📍 **Montevideo, Uruguay** · 🏢 **LBM Studios** · 💻 Impulsando ingeniería de impacto
+```
+  [ 00A // LBM STUDIOS ] · [ 00B // MONTEVIDEO, UY ] · [ 00C // VERIFIED WORKSPACE ]
+```
+
+**LUCAS BEATHYATE MASCHERINI**  
+*Designing resilient enterprise engines & editorial creative technology.*
 
 </div>
