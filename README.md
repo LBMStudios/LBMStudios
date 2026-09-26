@@ -58,10 +58,11 @@ INDEX   CASE STUDY                   DOMAIN                    CORE IMPACT
 * **Stack:** Firebase Cloud · Google Apps Script · Brevo Transactional Engine · Remotion Video Engine
 * **Essence:** Full-lifecycle ticketing for corporate premiere (Coyote vs Acme). Door QR access verification, dynamic capacity governance, automated omni-channel dispatch and programmatic case study video generation.
 
-#### 🎯 [Unified Sales Flow & Siebel CRM Engine](https://github.com/LBMStudios/gestion-de-leads) `[03/06]`
-* **Repository:** [`gestion-de-leads`](https://github.com/LBMStudios/gestion-de-leads) & [`siebel-universal-assistance`](https://github.com/LBMStudios/siebel-universal-assistance)
-* **Stack:** React 19 · Supabase Realtime · Python Automation · Siebel CRM Protocol Sync
-* **Essence:** Real-time commercial conversion tray, phone normalizer (+598 / +54), algorithmic deduplication, and bi-directional CRM synchronization.
+#### 🎯 [Unified Sales Flow & Lead Rescue Engine](https://github.com/LBMStudios/lead-rescue-app) `[03/06]`
+* **Repository:** [`lead-rescue-app`](https://github.com/LBMStudios/lead-rescue-app), [`gestion-de-leads`](https://github.com/LBMStudios/gestion-de-leads) & [`siebel-universal-assistance`](https://github.com/LBMStudios/siebel-universal-assistance)
+* **Partner / Client:** Universal Assistance Uruguay (A company of ZURICH)
+* **Stack:** React 19 · Vite · Siebel CRM Protocol · Telecom Normalizer (+598) · Itaú & OCA Agreements · Brevo Engine
+* **Essence:** Real-time commercial rescue tray, Uruguayan telecom normalizer (Antel, Movistar, Claro, Landlines), dynamic financial re-quote engine with bank discounts (Itaú 25%, OCA 20%), and 1-click WhatsApp/Brevo omnichannel recovery.
 
 #### ⚡ [One-Click Quote & Renewal Engine](https://github.com/LBMStudios/mails-renovacion) `[04/06]`
 * **Repository:** [`mails-renovacion`](https://github.com/LBMStudios/mails-renovacion) & [`reporte-llamadas-perdidas`](https://github.com/LBMStudios/reporte-llamadas-perdidas)
